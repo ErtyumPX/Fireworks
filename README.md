@@ -4,4 +4,7 @@ Just a firework effect, for fun..
 
 <hr>
 
-![](example.gif)
+<img src="example.gif" width="40%" height="40%" />
+
+
++![](example.gif)
